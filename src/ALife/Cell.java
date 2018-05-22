@@ -12,6 +12,7 @@ public class Cell implements Comparable {
 
 	public enum Originators
 	{
+		ANYTHING,
 		NORTH,
 		SOUTH,
 		EAST,
